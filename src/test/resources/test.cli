@@ -1,0 +1,1 @@
+/core-service=platform-mbean/type=runtime:read-attribute(name=system-properties)
